@@ -1,88 +1,88 @@
 [[startin]]
 arch = "aarch64"
-git-tree-sha1 = "83d5ef71b7fc859a02a2535b764d9e27ec1ccec1"
+git-tree-sha1 = "0be19523d1477e3dac35e746202ff76f82d38f1f"
 os = "macos"
 
     [[startin.download]]
-    sha256 = "26f807efc91ba741ddb5978ce01f38ae1256bd581c2527f1a533e2c87cbde76c"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.aarch64-apple-darwin.tar.gz"
+    sha256 = "0121787a9421bf4ec9d1e5d4bbc6053e140ac57690ad96f22b26d6c3fac0c9d6"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.aarch64-apple-darwin.tar.gz"
 [[startin]]
 arch = "aarch64"
-git-tree-sha1 = "1f083e910e4ace768b27e3b629bcceedebb8be88"
+git-tree-sha1 = "08003f6684457930307abbcb7a261aa3362ceaf8"
 libc = "glibc"
 os = "linux"
 
     [[startin.download]]
-    sha256 = "59be451b761bb84b49baea6a61e518d030b30a527b9ff08c1ef54b8056ea4ee3"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.aarch64-linux-gnu.tar.gz"
+    sha256 = "4fb5333f79a6f02b0b515df0fd4e0d6a1f8e3242da2985eca3944fefe1f66ae4"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.aarch64-linux-gnu.tar.gz"
 [[startin]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "8aff44b59edc360d7e3e4c8e0bc16a091ba31120"
+git-tree-sha1 = "12fbcd9d0c46a817f17bda09f950bd07eb82d49b"
 libc = "glibc"
 os = "linux"
 
     [[startin.download]]
-    sha256 = "382be04203677642288c13c8bb828546629bdcec90306050b50ab599a5f3a6b9"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "cca49aac00ea79facda907c064ce1039d0f6608c5d74cad5d012f05009e2e1bd"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.armv6l-linux-gnueabihf.tar.gz"
 [[startin]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "8d8bfb98d1a8ebe4e0cc7ee5ea0c00ad49fbe51c"
+git-tree-sha1 = "2b7ff62bc2efac90c5e298c064bbf4cd2906e013"
 libc = "glibc"
 os = "linux"
 
     [[startin.download]]
-    sha256 = "8c4eb5d12a1f2908b1f0120dce0a876e260ff9c2c2941216914c1bef6d18fbdf"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "58931219834a82ff9a2f02b5028a90602163c77beba0566fccb1db56d0eb61d2"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.armv7l-linux-gnueabihf.tar.gz"
 [[startin]]
 arch = "i686"
-git-tree-sha1 = "71748b17da378d68b0ad778e74621ab4815d49b9"
+git-tree-sha1 = "2feeddc43ca7d597c10d37268eecfb97da9973c1"
 libc = "glibc"
 os = "linux"
 
     [[startin.download]]
-    sha256 = "6f893ac06ade0a6e15da70be24101dad0a7fa0dfc76dc77d94969303a24e4a1b"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.i686-linux-gnu.tar.gz"
+    sha256 = "7f3b9058f8538e55ade8bbc0101cf1c3cc8ae6f54ea2c2a8f705425c6f3b9e23"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.i686-linux-gnu.tar.gz"
 [[startin]]
 arch = "powerpc64le"
-git-tree-sha1 = "9827d0d4d9d6de5ab08b6b88996923d90fd1d056"
+git-tree-sha1 = "f3d93cc93cccafd703ffa9a955931db226e345e3"
 libc = "glibc"
 os = "linux"
 
     [[startin.download]]
-    sha256 = "ca8dabe7c5fcd09bc9c3adc26db912edff20c9d0cba56d07ccb76a0becfe91f8"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "57c0cf3bb86b8dede08e1fafd83ea4deeea7852559c6e84652d42e04bdc893cc"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.powerpc64le-linux-gnu.tar.gz"
 [[startin]]
 arch = "x86_64"
-git-tree-sha1 = "777e71a48d25eb9f6e3e2cd05e7aaf46a855e6e8"
+git-tree-sha1 = "b9b8f968e71e58316f32e0d4b996525f8d546e4f"
 os = "macos"
 
     [[startin.download]]
-    sha256 = "d43f071779a4bc03fe4bf75515468d784b1bb8254ec5068ae41a347cfc59ffc0"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.x86_64-apple-darwin.tar.gz"
+    sha256 = "f001fddd6f35914bc63503fe3dbb5d4e1c3cbc561ee186808cee129075808494"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.x86_64-apple-darwin.tar.gz"
 [[startin]]
 arch = "x86_64"
-git-tree-sha1 = "0209a469ead6389c08f34ff8b4e5bc476700de8d"
+git-tree-sha1 = "0d6d6a5e1b799f417e225ddbbbecff50c8cf15a4"
 libc = "glibc"
 os = "linux"
 
     [[startin.download]]
-    sha256 = "a9cb607499a77f0f52d0c7f3df103b5164a9de0fae7d372e42304970a8b33a16"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.x86_64-linux-gnu.tar.gz"
+    sha256 = "22a689ae1916559eadc66f86832d37299eb112661f4e0ee729216e929f9df7d1"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.x86_64-linux-gnu.tar.gz"
 [[startin]]
 arch = "x86_64"
-git-tree-sha1 = "a0d1ea9cfdcb233ec694da09b8addcdd3cc86285"
+git-tree-sha1 = "f15413ce1d07c9d7d9eae5b2c2a63a6e31d05bf1"
 os = "freebsd"
 
     [[startin.download]]
-    sha256 = "b270d7bd89ba8604972313605025565c4bac99719e023da0db79f02f496fc0cf"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.x86_64-unknown-freebsd.tar.gz"
+    sha256 = "0117bf2dae0393cc8d61d1ae0c015fdefded55503dbd40970ba638e6a38c9a4e"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.x86_64-unknown-freebsd.tar.gz"
 [[startin]]
 arch = "x86_64"
-git-tree-sha1 = "662b2c01f99dcc7cd568d8634a1a624c86a5ca8c"
+git-tree-sha1 = "146cb8808dc522dc17c30d286a5a69c65f06bbb8"
 os = "windows"
 
     [[startin.download]]
-    sha256 = "16e1ef5721f298ef6a90e62eec2a43deae51555f71e2d803b381991660b13e34"
-    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.2+0/startin.v0.5.2.x86_64-w64-mingw32.tar.gz"
+    sha256 = "5e8f8a690604b682ac1c59d3763753562be46f4ea844e55590efc5878183a459"
+    url = "https://github.com/JuliaBinaryWrappers/startin_jll.jl/releases/download/startin-v0.5.3+0/startin.v0.5.3.x86_64-w64-mingw32.tar.gz"

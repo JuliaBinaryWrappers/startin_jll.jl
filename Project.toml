@@ -1,6 +1,6 @@
 name = "startin_jll"
 uuid = "c0017dae-bb0d-5ae0-bc81-a2950b9c605d"
-version = "0.5.2+0"
+version = "0.5.3+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
